@@ -1,6 +1,6 @@
 Tool Materials
 Plastic
-. Base Durability: 1500
+Base Durability: 1500
 T1] Handle Modifier: 0.1x
 65:" L Full Durability: 150
 Mining Speed: 6.0

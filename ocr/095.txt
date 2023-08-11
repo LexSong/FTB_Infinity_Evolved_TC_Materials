@@ -1,6 +1,6 @@
 Tool Materials
 Yellorium
-. Base Durability: 600
+Base Durability: 600
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 600
 Mining Speed: 3.0

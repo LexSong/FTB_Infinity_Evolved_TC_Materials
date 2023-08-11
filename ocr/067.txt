@@ -1,6 +1,6 @@
 Tool Materials
 Fiery
-. Base Durability: 1024
+Base Durability: 1024
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 1024
 Mining Speed: 9.0

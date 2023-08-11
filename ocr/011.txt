@@ -1,6 +1,6 @@
 Tool Materials
 Flint
-. Base Durability: 171
+Base Durability: 171
 T1] Handle Modifier: 0.7x
 65:" L Full Durability: 120
 Mining Speed: 5.25

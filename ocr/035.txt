@@ -1,6 +1,6 @@
 Tool Materials
 Nether Quartz
-. Base Durability: 101
+Base Durability: 101
 Ti] Handle Modifier: 0.7x
 65:" L Full Durability: 71
 Mining Speed: 3.0

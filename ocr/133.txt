@@ -1,6 +1,6 @@
 Tool Materials
 Silver
-. Base Durability: 80
+Base Durability: 80
 Ti] Handle Modifier: 1.3x
 65:" L Full Durability: 104
 Mining Speed: 12.0

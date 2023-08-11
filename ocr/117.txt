@@ -1,6 +1,6 @@
 Tool Materials
 Lumium
-. Base Durability: 750
+Base Durability: 750
 T1] Handle Modifier: 0.8x
 65:" L Full Durability: 600
 Mining Speed: 13.0

@@ -1,6 +1,6 @@
 Tool Materials
 Mithril
-. Base Durability: 1000
+Base Durability: 1000
 T1] Handle Modifier: 1.5x
 65:" L Full Durability: 1500
 Mining Speed: 9.0

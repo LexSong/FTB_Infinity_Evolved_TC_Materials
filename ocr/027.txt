@@ -1,6 +1,6 @@
 Tool Materials
 Fusewood
-. Base Durability: 250
+Base Durability: 250
 Ti] Handle Modifier: 1.4x
 65:" L Full Durability: 350
 Mining Speed: 6.0

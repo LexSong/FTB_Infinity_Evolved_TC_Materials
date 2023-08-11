@@ -1,6 +1,6 @@
 Tool Materials
 Lead
-. Base Durability: 250
+Base Durability: 250
 TLL Handle Modifier: 1.1x
 65:" L Full Durability: 275
 Mining Speed: 9.0

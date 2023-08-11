@@ -1,6 +1,6 @@
 Tool Materials
 Alumite
-. Base Durability: 700
+Base Durability: 700
 Ti] Handle Modifier: 1.3x
 65:" L Full Durability: 910
 Mining Speed: 8.0

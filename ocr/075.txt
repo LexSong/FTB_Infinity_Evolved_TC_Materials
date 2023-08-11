@@ -1,6 +1,6 @@
 Tool Materials
 Amethyst
-. Base Durability: 750
+Base Durability: 750
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 750
 Mining Speed: 6.0

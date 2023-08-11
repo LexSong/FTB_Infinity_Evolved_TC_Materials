@@ -1,6 +1,6 @@
 Tool Materials
 Thaumium
-. Base Durability: 400
+Base Durability: 400
 Ti] Handle Modifier: 1.3x
 65:" L Full Durability: 520
 Mining Speed: 7.0

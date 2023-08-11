@@ -1,6 +1,6 @@
 Tool Materials
 Copper
-. Base Durability: 180
+Base Durability: 180
 Ti] Handle Modifier: 1.15X
 65:" L Full Durability: 207
 Mining Speed: 5.0

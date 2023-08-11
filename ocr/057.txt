@@ -1,6 +1,6 @@
 Tool Materials
 Manasteel
-. Base Durability: 300
+Base Durability: 300
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 300
 Mining Speed: 6.2

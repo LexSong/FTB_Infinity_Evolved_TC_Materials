@@ -1,6 +1,6 @@
 Tool Materials
 Cactus
-. Base Durability: 150
+Base Durability: 150
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 150
 Mining Speed: 5.0

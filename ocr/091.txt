@@ -1,6 +1,6 @@
 Tool Materials
 Awakened Draconium
-. Base Durability: 10000
+Base Durability: 10000
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 10000
 Mining Speed: 16.0

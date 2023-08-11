@@ -1,6 +1,6 @@
 Tool Materials
 Stone
-. Base Durability: 131
+Base Durability: 131
 Ti] Handle Modifier: 0.5x
 65:" L Full Durability: 66
 Mining Speed: 40

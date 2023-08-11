@@ -1,6 +1,6 @@
 Tool Materials
 Cobalt
-. Base Durability: 800
+Base Durability: 800
 Ti] Handle Modifier: 1.75X
 65:" L Full Durability: 1400
 Mining Speed: 14.0
