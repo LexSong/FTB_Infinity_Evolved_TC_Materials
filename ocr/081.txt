@@ -5,5 +5,5 @@ Handle Modifier: 1.0x
 Full Durability: 512
 Mining Speed: 8.0
 Mining Level: Redstone
-Attack: 1.5 Heaits
+Attack: 1.5 Hearts
 Page 81/134
