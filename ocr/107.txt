@@ -1,5 +1,5 @@
 Tool Materials
-.1 Unstable Induced
+Unstable Induced
 . Base Durability: 100
 T1] Handle Modifier: 0.6):
 a?" L Full Durability: 60

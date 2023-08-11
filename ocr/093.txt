@@ -1,5 +1,5 @@
 Tool Materials
-.1 Glue
+Glue
 . Base Durability: 20
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 20

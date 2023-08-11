@@ -1,5 +1,5 @@
 Tool Materials
-.1 Invar
+Invar
 . Base Durability: 450
 Ti] Handle Modifier: 1.4x
 65:" L Full Durability: 630

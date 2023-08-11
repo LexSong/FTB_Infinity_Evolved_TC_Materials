@@ -1,5 +1,5 @@
 Tool Materials
-.1 RedAurum
+RedAurum
 . Base Durability: 250
 Ti] Handle Modifier: 1.2x
 65:" L Full Durability: 300

@@ -1,5 +1,5 @@
 Tool Materials
-.1 Bedrockium
+Bedrockium
 . Base Durability: 80000
 T1] Handle Modifier: 03):
 a?" L Full Durability: 24000

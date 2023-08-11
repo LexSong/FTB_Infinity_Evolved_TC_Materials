@@ -1,5 +1,5 @@
 Tool Materials
-.1 Steelleaf
+Steelleaf
 . Base Durability: 131
 T1] Handle Modifier: 1.0x
 65:" L Full Durability: 131

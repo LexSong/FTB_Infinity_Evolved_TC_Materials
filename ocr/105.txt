@@ -1,5 +1,5 @@
 Tool Materials
-.1 Tear J erker
+Tear J erker
 . Base Durability: 10
 Ti] Handle Modifier: 0.3x
 65:" L Full Durability: 3

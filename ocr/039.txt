@@ -1,5 +1,5 @@
 Tool Materials
-.1 Manyullyn
+Manyullyn
 . Base Durability: 1200
 Ti] Handle Modifier: 2.5x
 65:" L Full Durability: 3000

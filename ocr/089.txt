@@ -1,5 +1,5 @@
 Tool Materials
-.1 Draconium
+Draconium
 . Base Durability: 1000
 Ti] Handle Modifier: 1.0x
 65:" L Full Durability: 1000

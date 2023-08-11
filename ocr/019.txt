@@ -1,5 +1,5 @@
 Tool Materials
-.1 Bloodwood
+Bloodwood
 . Base Durability: 350
 Ti] Handle Modifier: 1.5x
 65:" L Full Durability: 525

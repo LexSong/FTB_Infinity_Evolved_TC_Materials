@@ -1,5 +1,5 @@
 Tool Materials
-.' Pink Slime
+Pink Slime
 . Base Durability: 2000
 TI} Handle Modifier: 2.5x
 65:" L Full Durability: 5000

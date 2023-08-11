@@ -1,5 +1,5 @@
 Tool Materials
-.1 Dark Steel
+Dark Steel
 . Base Durability: 1561
 T1] Handle Modifier: 1.0x
 65:" L Full Durability: 1561
