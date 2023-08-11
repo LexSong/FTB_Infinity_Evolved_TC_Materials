@@ -1,6 +1,6 @@
 Tool Materials
 Bow & Arrow
-. Draw Speed: 200
+Draw Speed: 200
 ‘3 AI‘I‘OW' Speed: 3.0
 52:? 1
 Weight: 40.0
