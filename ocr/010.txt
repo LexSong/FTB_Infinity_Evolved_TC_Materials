@@ -1,7 +1,7 @@
 Tool Materials
 Bow & Arrow
 Draw Speed: 54
-‘3 AI‘I‘OW' Speed: 5.2
+Arrow Speed: 5.2
 52:? 1
 Weight: 3.3
 Break Chance: 0.8
