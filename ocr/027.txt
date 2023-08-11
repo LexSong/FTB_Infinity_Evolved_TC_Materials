@@ -1,5 +1,5 @@
 Tool Materials
-F usewood
+Fusewood
 . Base Durability: 250
 Ti] Handle Modifier: 1.4x
 65:" L Full Durability: 350
