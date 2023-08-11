@@ -1,7 +1,7 @@
 Tool Materials
 Copper
 Base Durability: 180
-Handle Modifier: 1.15X
+Handle Modifier: 1.15x
 65:" L Full Durability: 207
 Mining Speed: 5.0
 Mining Level: Iron

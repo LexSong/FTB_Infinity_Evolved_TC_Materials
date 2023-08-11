@@ -1,7 +1,7 @@
 Tool Materials
 Unstable Induced
 Base Durability: 100
-Handle Modifier: 0.6):
+Handle Modifier: 0.6x
 a?" L Full Durability: 60
 Mining Speed: 7.0
 Mining Level: Cobalt
