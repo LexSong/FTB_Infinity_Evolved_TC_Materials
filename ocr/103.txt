@@ -1,0 +1,10 @@
+Tool Materials
+.1 Bedrockium
+. Base Durability: 80000
+T1] Handle Modifier: 03):
+a?" L Full Durability: 24000
+Mining Speed: 1.0
+Mining Level: Stone
+Attack: 0 Hearts
+Infinite uses... itty bitty usability
+Page 103/134

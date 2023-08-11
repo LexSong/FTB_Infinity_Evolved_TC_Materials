@@ -1,0 +1,9 @@
+Tool Materials
+.1 KnightMetal
+. Base Durability: 512
+Ti] Handle Modifier: 1.0x
+65:" L Full Durability: 512
+Mining Speed: 8.0
+Mining Level: Obsidian
+Attack: 1.5 Hearts
+Page 71/134

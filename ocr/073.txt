@@ -1,0 +1,9 @@
+Tool Materials
+.1 Steelleaf
+. Base Durability: 131
+T1] Handle Modifier: 1.0x
+65:" L Full Durability: 131
+Mining Speed: 8.0
+Mining Level: Obsidian
+Attack: 1.5 Hearts
+Page 73/134

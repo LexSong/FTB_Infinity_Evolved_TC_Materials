@@ -1,0 +1,8 @@
+Tool Materials
+.1 Bow & Arrow
+. Draw Speed: 45
+‘3 AI‘I‘OW' Speed: 5.0
+52:? 1
+Weight: 1.1
+Break Chance: 0.7
+Page 50/134

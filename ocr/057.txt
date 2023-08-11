@@ -1,0 +1,9 @@
+Tool Materials
+.1 Manasteel
+. Base Durability: 300
+Ti] Handle Modifier: 1.0x
+65:" L Full Durability: 300
+Mining Speed: 6.2
+Mining Level: Obsidian
+Attack: 1 Heart
+Page 57/134

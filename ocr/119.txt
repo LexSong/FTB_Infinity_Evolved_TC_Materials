@@ -1,0 +1,10 @@
+Tool Materials
+.1 Constantan
+. Base Durability: 650
+T1] Handle Modifier: 1.3x
+65:" L Full Durability: 845
+Mining Speed: 7.0
+Mining Level: Redstone
+Attack: 2.5 Hearts
+Reinforced I
+Page 119/134

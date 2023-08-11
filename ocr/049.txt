@@ -1,0 +1,10 @@
+Tool Materials
+.1 Alumite
+. Base Durability: 700
+Ti] Handle Modifier: 1.3x
+65:" L Full Durability: 910
+Mining Speed: 8.0
+Mining Level: Cobalt
+Attack: 1.5 Hearts
+Reinforced II
+Page 49/134

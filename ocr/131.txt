@@ -1,0 +1,10 @@
+Tool Materials
+.1 Lead
+. Base Durability: 250
+TLL Handle Modifier: 1.1x
+65:" L Full Durability: 275
+Mining Speed: 9.0
+Mining Level: Iron
+Attack: 1 Heart
+Heavy (1.0)
+Page 131/134

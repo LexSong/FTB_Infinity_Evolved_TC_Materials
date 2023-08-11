@@ -1,0 +1,9 @@
+Tool Materials
+.1 RedAurum
+. Base Durability: 250
+Ti] Handle Modifier: 1.2x
+65:" L Full Durability: 300
+Mining Speed: 7.5
+Mining Level: Cobalt
+Attack: 1 Heart
+Page 87/134

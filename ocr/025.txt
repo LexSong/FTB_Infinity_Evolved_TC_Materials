@@ -1,0 +1,10 @@
+Tool Materials
+.1 Slime
+. Base Durability: 500
+Ti] Handle Modifier: 1.5x
+65:" L Full Durability: 750
+Mining Speed: 1.5
+Mining Level: Stone
+Attack: 0 Hearts
+Slimy
+Page 25/134

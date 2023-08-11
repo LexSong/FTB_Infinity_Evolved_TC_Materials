@@ -1,0 +1,10 @@
+Tool Materials
+.1 Invar
+. Base Durability: 450
+Ti] Handle Modifier: 1.4x
+65:" L Full Durability: 630
+Mining Speed: 7.0
+Mining Level: Redstone
+Attack: 1 Heart
+Reinforced I
+Page 125/134

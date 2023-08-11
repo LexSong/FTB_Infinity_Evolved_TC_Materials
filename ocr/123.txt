@@ -1,0 +1,10 @@
+Tool Materials
+.' Pink Slime
+. Base Durability: 2000
+TI} Handle Modifier: 2.5x
+65:" L Full Durability: 5000
+Mining Speed: 3.0
+Mining Level: Iron
+Attack: 0.5 Hearts
+SlimyPink
+Page 123/134

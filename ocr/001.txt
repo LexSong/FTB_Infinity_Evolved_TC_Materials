@@ -1,0 +1,9 @@
+Tool Materials
+.1 Wood
+. Base Durability: 97
+Ti] Handle Modifier: 1.0x
+65:" L Full Durability: 97
+Mining Speed: 3.5
+Mining Level: Iron
+Attack: 0 Hearts
+Page 1/134

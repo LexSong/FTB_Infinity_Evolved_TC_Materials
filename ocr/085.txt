@@ -1,0 +1,9 @@
+Tool Materials
+.1 Void Metal
+. Base Durability: 150
+TI} Handle Modifier: 1.0x
+65:" L Full Durability: 150
+Mining Speed: 8.0
+Mining Level: Cobalt
+Attack: 1.5 Hearts
+Page 85/134

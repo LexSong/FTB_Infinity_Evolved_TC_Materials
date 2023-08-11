@@ -1,0 +1,10 @@
+Tool Materials
+.1 Paper
+. Base Durability: 30
+Ti] Handle Modifier: 0.3x
+65:" L Full Durability: 9
+Mining Speed: 2.0
+Mining Level: Stone
+Attack: 0 Hearts
+Writable
+Page 29/134

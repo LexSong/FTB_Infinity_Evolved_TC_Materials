@@ -1,0 +1,9 @@
+Tool Materials
+.1 Lumium
+. Base Durability: 750
+T1] Handle Modifier: 0.8x
+65:" L Full Durability: 600
+Mining Speed: 13.0
+Mining Level: Obsidian
+Attack: 2 Hearts
+Page 117/134

@@ -1,0 +1,10 @@
+Tool Materials
+.1 Iron
+. Base Durability: 250
+Ti] Handle Modifier: 1.3x
+65:" L Full Durability: 325
+Mining Speed: 6.0
+Mining Level: Redstone
+Attack: 1 Heart
+Reinforced I
+Page 9/134
