@@ -1,4 +1,4 @@
-T001 Materials
+Tool Materials
 .1 Bow & Arrow
 . Draw Speed: 20
 ‘3 Arrow Speed: 3.4
