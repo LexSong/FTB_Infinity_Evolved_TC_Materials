@@ -3,7 +3,7 @@ Netherrack
 Base Durability: 131
 Handle Modifier: 1.2x
 Full Durability: 157
-Mining Speed: 40
+Mining Speed: 4.0
 Mining Level: Redstone
 Attack: 0.5 Hearts
 Stonebound (1 .0)
