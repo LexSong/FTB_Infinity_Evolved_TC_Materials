@@ -2,7 +2,7 @@ Tool Materials
 Fusewood
 Base Durability: 250
 Handle Modifier: 1.4x
-65:" L Full Durability: 350
+Full Durability: 350
 Mining Speed: 6.0
 Mining Level: Redstone
 Attack: 1 Heart

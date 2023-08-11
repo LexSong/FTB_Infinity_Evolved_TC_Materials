@@ -2,7 +2,7 @@ Tool Materials
 Flint
 Base Durability: 171
 Handle Modifier: 0.7x
-65:" L Full Durability: 120
+Full Durability: 120
 Mining Speed: 5.25
 Mining Level: Iron
 Attack: 1 Heart

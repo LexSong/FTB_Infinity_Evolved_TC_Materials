@@ -2,7 +2,7 @@ Tool Materials
 Glue
 Base Durability: 20
 Handle Modifier: 1.0x
-65:" L Full Durability: 20
+Full Durability: 20
 Mining Speed: 1.0
 Mining Level: Stone
 Attack: 1 Heart

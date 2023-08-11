@@ -2,7 +2,7 @@ Tool Materials
 Ironwood
 Base Durability: 512
 Handle Modifier: 1.0x
-65:" L Full Durability: 512
+Full Durability: 512
 Mining Speed: 6.5
 Mining Level: Redstone
 Attack: 1 Heart

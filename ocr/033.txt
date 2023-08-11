@@ -2,7 +2,7 @@ Tool Materials
 Cobalt
 Base Durability: 800
 Handle Modifier: 1.75x
-65:" L Full Durability: 1400
+Full Durability: 1400
 Mining Speed: 14.0
 Mining Level: Cobalt
 Attack: 1.5 Hearts

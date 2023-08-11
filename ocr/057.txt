@@ -2,7 +2,7 @@ Tool Materials
 Manasteel
 Base Durability: 300
 Handle Modifier: 1.0x
-65:" L Full Durability: 300
+Full Durability: 300
 Mining Speed: 6.2
 Mining Level: Obsidian
 Attack: 1 Heart

@@ -2,7 +2,7 @@ Tool Materials
 Bloodwood
 Base Durability: 350
 Handle Modifier: 1.5x
-65:" L Full Durability: 525
+Full Durability: 525
 Mining Speed: 7.0
 Mining Level: Obsidian
 Attack: 1.5 Hearts

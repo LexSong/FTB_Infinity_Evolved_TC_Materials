@@ -2,7 +2,7 @@ Tool Materials
 Shiny
 Base Durability: 1050
 Handle Modifier: 1.5x
-65:" L Full Durability: 1575
+Full Durability: 1575
 Mining Speed: 14.0
 Mining Level: Cobalt
 Attack: 2.5 Hearts

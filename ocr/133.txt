@@ -2,7 +2,7 @@ Tool Materials
 Silver
 Base Durability: 80
 Handle Modifier: 1.3x
-65:" L Full Durability: 104
+Full Durability: 104
 Mining Speed: 12.0
 Mining Level: Redstone
 Attack: 1.5 Hearts

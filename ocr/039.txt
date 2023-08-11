@@ -2,7 +2,7 @@ Tool Materials
 Manyullyn
 Base Durability: 1200
 Handle Modifier: 2.5x
-65:" L Full Durability: 3000
+Full Durability: 3000
 Mining Speed: 9.0
 Mining Level: Manyullyn
 Attack: 2 Hearts

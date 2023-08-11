@@ -2,7 +2,7 @@ Tool Materials
 Bedrockium
 Base Durability: 7500
 Handle Modifier: 1.75x
-65:" L Full Durability: 13125
+Full Durability: 13125
 Mining Speed: 8.0
 Mining Level: 7
 Attack: 2 Hearts

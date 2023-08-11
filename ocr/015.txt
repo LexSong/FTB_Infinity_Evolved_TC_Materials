@@ -2,7 +2,7 @@ Tool Materials
 Bone
 Base Durability: 200
 Handle Modifier: 1.0x
-65:" L Full Durability: 200
+Full Durability: 200
 Mining Speed: 4.0
 Mining Level: Iron
 Attack: 0.5 Hearts

@@ -2,7 +2,7 @@ Tool Materials
 Ferrous
 Base Durability: 750
 Handle Modifier: 1.35x
-65:" L Full Durability: 1013
+Full Durability: 1013
 Mining Speed: 11.0
 Mining Level: Redstone
 Attack: 1 Heart
