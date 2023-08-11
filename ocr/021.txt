@@ -1,7 +1,7 @@
 Tool Materials
 Netherrack
 Base Durability: 131
-T1] Handle Modifier: 1.2x
+Handle Modifier: 1.2x
 65:" L Full Durability: 157
 Mining Speed: 40
 Mining Level: Redstone

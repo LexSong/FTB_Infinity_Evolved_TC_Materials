@@ -1,7 +1,7 @@
 Tool Materials
 Dark Steel
 Base Durability: 1561
-T1] Handle Modifier: 1.0x
+Handle Modifier: 1.0x
 65:" L Full Durability: 1561
 Mining Speed: 7.0
 Mining Level: Manyullyn

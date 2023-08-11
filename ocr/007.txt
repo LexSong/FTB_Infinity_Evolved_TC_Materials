@@ -1,7 +1,7 @@
 Tool Materials
 Electrum
 Base Durability: 90
-Ti] Handle Modifier: 1.4x
+Handle Modifier: 1.4x
 65:" L Full Durability: 126
 Mining Speed: 17.0
 Mining Level: Iron

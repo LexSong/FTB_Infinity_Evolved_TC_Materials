@@ -1,7 +1,7 @@
 Tool Materials
 Obsidian
 Base Durability: 89
-Ti] Handle Modifier: 0.8x
+Handle Modifier: 0.8x
 65:" L Full Durability: 71
 Mining Speed: 7.0
 Mining Level: Obsidian

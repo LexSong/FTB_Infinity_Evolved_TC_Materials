@@ -1,7 +1,7 @@
 Tool Materials
 Enderium
 Base Durability: 800
-T1] Handle Modifier: 1.5x
+Handle Modifier: 1.5x
 65:" L Full Durability: 1200
 Mining Speed: 3.0
 Mining Level: Cobalt

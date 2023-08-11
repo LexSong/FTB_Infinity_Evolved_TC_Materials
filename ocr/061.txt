@@ -1,7 +1,7 @@
 Tool Materials
 Terrasteel
 Base Durability: 2300
-Ti] Handle Modifier: 1.0x
+Handle Modifier: 1.0x
 65:" L Full Durability: 2300
 Mining Speed: 9.0
 Mining Level: Obsidian

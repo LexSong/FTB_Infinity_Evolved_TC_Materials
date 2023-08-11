@@ -1,7 +1,7 @@
 Tool Materials
 Bronze
 Base Durability: 550
-Ti] Handle Modifier: 1.3x
+Handle Modifier: 1.3x
 65:" L Full Durability: 715
 Mining Speed: 8.0
 Mining Level: Redstone

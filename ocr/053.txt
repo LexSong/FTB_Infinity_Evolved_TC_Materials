@@ -1,7 +1,7 @@
 Tool Materials
 Steel
 Base Durability: 750
-Ti] Handle Modifier: 1.3x
+Handle Modifier: 1.3x
 65:" L Full Durability: 975
 Mining Speed: 10.0
 Mining Level: Cobalt

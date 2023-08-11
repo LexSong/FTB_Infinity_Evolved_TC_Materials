@@ -1,7 +1,7 @@
 Tool Materials
 Blue Slime
 Base Durability: 1200
-Ti] Handle Modifier: 2.0x
+Handle Modifier: 2.0x
 65:" L Full Durability: 2400
 Mining Speed: 1.5
 Mining Level: Stone

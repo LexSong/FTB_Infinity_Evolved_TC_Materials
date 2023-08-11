@@ -1,7 +1,7 @@
 Tool Materials
 Magical Wooden
 Base Durability: 97
-T1] Handle Modifier: 1.0x
+Handle Modifier: 1.0x
 65:" L Full Durability: 97
 Mining Speed: 1.5
 Mining Level: Iron

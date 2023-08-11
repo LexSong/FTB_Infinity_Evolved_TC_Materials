@@ -1,7 +1,7 @@
 Tool Materials
 Signalum
 Base Durability: 1100
-T1] Handle Modifier: 0.9x
+Handle Modifier: 0.9x
 65:" L Full Durability: 990
 Mining Speed: 6.0
 Mining Level: Obsidian

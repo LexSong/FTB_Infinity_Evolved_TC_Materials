@@ -1,7 +1,7 @@
 Tool Materials
 Tear Jerker
 Base Durability: 10
-Ti] Handle Modifier: 0.3x
+Handle Modifier: 0.3x
 65:" L Full Durability: 3
 Mining Speed: 0.9
 Mining Level: Stone

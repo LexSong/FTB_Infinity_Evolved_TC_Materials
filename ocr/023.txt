@@ -1,7 +1,7 @@
 Tool Materials
 Darkwood
 Base Durability: 131
-Ti] Handle Modifier: 1.7x
+Handle Modifier: 1.7x
 65:" L Full Durability: 223
 Mining Speed: 4.0
 Mining Level: Iron
