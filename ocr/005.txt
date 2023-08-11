@@ -6,5 +6,5 @@ Full Durability: 66
 Mining Speed: 4.0
 Mining Level: Iron
 Attack: 0.5 Hearts
-Stonebound (1 .0)
+Stonebound (1.0)
 Page 5/134
